@@ -13,6 +13,8 @@ RUN apt-get update && \
         libx11-dev \
         libx11-xcb-dev \
         libxcb-res0-dev \
-        libxft-dev
+        libxft-dev \
+        nano \
+        vim
 
 COPY build.sh /
