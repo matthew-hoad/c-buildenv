@@ -12,6 +12,7 @@ For those who would prefer not to keep their build tools in their OS (or cant - 
 
     ```txt
     libssl-dev
+    libimlib2-dev
     ```
 - Hopefully it will build successfully with:
 
